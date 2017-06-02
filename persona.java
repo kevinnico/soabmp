@@ -1,2 +1,5 @@
 nombre
 apellidos
+
+edad 
+dni
